@@ -26,4 +26,3 @@ Clause and Functions used:
 •	Aggregate Functions: Applied aggregate functions such as AVG, SUM, and COUNT to calculate summary statistics and derive insights from the data.
 
 
-# Sales_Order_SQL
